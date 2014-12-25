@@ -1,0 +1,2 @@
+ResponsiveOrgManifesto
+======================
